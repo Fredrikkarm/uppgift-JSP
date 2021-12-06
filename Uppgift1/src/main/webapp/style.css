@@ -1,0 +1,10 @@
+header{
+	color: red;
+	background-color: pink;
+	top: 0;
+}
+footer{
+	color: red;
+	background-color: lightgrey;
+	bottom: 0;
+}
